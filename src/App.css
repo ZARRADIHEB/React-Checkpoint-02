@@ -40,3 +40,7 @@
 .h-fit-content {
   height: fit-content;
 }
+
+#root {
+  background: rgb(33, 37, 41);
+}

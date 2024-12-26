@@ -1,0 +1,103 @@
+const players = [
+  {
+    name: "Cristiano Ronaldo",
+    team: "Al-Nassr",
+    nationality: "Portuguese",
+    jerseyNumber: "7",
+    img: "https://i.postimg.cc/hGyxYvws/download.jpg",
+  },
+  {
+    name: "Karim Benzema",
+    team: "Al-Ittihad",
+    nationality: "French",
+    jerseyNumber: "9",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClRstBYXIrAna6aAwTbsN6HnWIVRt0q_DBA&s",
+  },
+  {
+    name: "Luka Modric",
+    team: "Real Madrid",
+    nationality: "Croatian",
+    jerseyNumber: 10,
+    img: "https://assets.laliga.com/squad/2024/t186/p37055/2048x2048/p37055_t186_2024_1_002_000.jpg",
+  },
+  {
+    name: "Lionel Messi",
+    team: "Inter Miami",
+    nationality: "Argentine",
+    jerseyNumber: "10",
+    img: "https://i.postimg.cc/Fs5S82PM/download.jpg",
+  },
+  {
+    name: "Kilian Mbappe",
+    team: "Real Madrid",
+    nationality: "French",
+    jerseyNumber: "9",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgAMUQMOcRn8rs4mdR9oa6EdCLzoCbKAUS4A&s",
+  },
+
+  {
+    name: "Neymar Jr.",
+    team: "Al-Hilal",
+    nationality: "Brazilian",
+    jerseyNumber: "11",
+    img: "https://i.postimg.cc/J7TgQ5PH/download.jpg",
+  },
+  {
+    name: "Kevin De Bruyne",
+    team: "Manchester City",
+    nationality: "Belgian",
+    jerseyNumber: "17",
+    img: "https://i.postimg.cc/WzK5cSH9/download.jpg",
+  },
+  {
+    name: "Mohamed Salah",
+    team: "Liverpool FC",
+    nationality: "Egyptian",
+    jerseyNumber: "11",
+    img: "https://i.postimg.cc/fTtHfnV1/download.jpg",
+  },
+  {
+    name: "Harry Kane",
+    team: "Bayern Munich",
+    nationality: "English",
+    jerseyNumber: "9",
+    img: "https://i.postimg.cc/1zJcZJgp/download.jpg",
+  },
+  {
+    name: "Virgil van Dijk",
+    team: "Liverpool FC",
+    nationality: "Dutch",
+    jerseyNumber: "4",
+    img: "https://i.postimg.cc/TYgsXvTg/download.jpg",
+  },
+  {
+    name: "Gareth Bale",
+    team: "Los Angeles FC",
+    nationality: "Welsh",
+    jerseyNumber: "11",
+    img: "https://i.postimg.cc/8zG0pXC3/images.jpg",
+  },
+  {
+    name: "Sadio Mané",
+    team: "Al Nassr FC",
+    nationality: "Senegalese",
+    jerseyNumber: "10",
+    img: "https://i.postimg.cc/wBT4JtLQ/images.jpg",
+  },
+  {
+    name: "Antoine Griezmann",
+    team: "Atlético Madrid",
+    nationality: "French",
+    jerseyNumber: "8",
+    img: "https://i.postimg.cc/6Qjjh9hJ/download.jpg",
+  },
+  {
+    name: "Paulo Dybala",
+    team: "AS Roma",
+    nationality: "Argentine",
+    jerseyNumber: "21",
+    img: "https://i.postimg.cc/FRYPW2Pf/download.jpg",
+  },
+];
+
+export default players;
