@@ -98,6 +98,13 @@ const players = [
     jerseyNumber: "21",
     img: "https://i.postimg.cc/FRYPW2Pf/download.jpg",
   },
+  {
+    name: "",
+    team: "",
+    nationality: "",
+    jerseyNumber: "",
+    img: "",
+  },
 ];
 
 export default players;
